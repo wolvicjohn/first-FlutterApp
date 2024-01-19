@@ -1,6 +1,16 @@
 # first_flutter_test
 
-A new Flutter project.
+This is my first flutter project 
+
+Content of my application:
+1. Simple Sign in/Login Account using:
+   Google
+   Facebook
+   Email/password
+   
+3. Implementation of Firebase.
+4. Simple Homepage.
+5. Simple Signup/Login Page.
 
 ## Getting Started
 
